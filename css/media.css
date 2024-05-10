@@ -1,0 +1,86 @@
+@media(max-width: 1195px) {
+    .nature__contact{
+        flex-wrap: wrap;
+    }
+}
+@media(max-width: 1160px) {
+    .hotel__contact{
+        flex-wrap: wrap;
+    }
+}
+@media(max-width: 1070px) {
+    .get_room__contact{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+@media(max-width: 1060px) {
+    .cabin__activ{
+        flex-wrap: wrap;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .cabin__organik{
+        flex-wrap: wrap;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
+@media(max-width: 970px) {
+    .rooms__pic{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+@media(max-width: 950px){
+    .bars {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .nav__list{
+        display: none;
+    }
+    .nav__button{
+        display: none;
+    }
+    
+}
+    
+    
+
+@media(max-width: 710px) {
+    .nature__title{
+        width: 100%;
+}
+
+}
+@media(max-width: 675px) {
+    .cootels{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .cootels__title{
+        margin-bottom: 70px;
+    }
+}
+@media(max-width: 630px) {
+    .get_room__contact .left{
+        width: 100%;
+    }
+    .get_room__contact .right{
+        width: 100%;
+    }
+} 
+@media(max-width: 557px) {
+    .rooms__title{
+        justify-content: center;
+
+    }
+    .rooms__pic{
+        justify-content: center;
+    }
+}
